@@ -1,8 +1,11 @@
-<h1>Loan Site</h1>
+Loan Site
+=========
 
 This is the source files for a simple php site that allows users to register and pay out loans to other users, granted that they know the users username.
 
-<h2>Setup</h2>
+
+## Setup
+
 * On windows, use Xampp to create am Apache and Mysql instance. The only configuration you need to check is the user name and password for mysql.
 
 * In phpMyAdmin import database.sql
