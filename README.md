@@ -8,7 +8,7 @@ This is the source files for a simple php site that allows users to register and
 
 * On windows, use Xampp to create am Apache and Mysql instance. The only configuration you need to check is the user name and password for mysql.
 
-* In phpMyAdmin import database.sql
+* In phpMyAdmin import loaning.sql
 
 * place the .php files in the Apache server document root location.
 
